@@ -1,0 +1,25 @@
+button {
+    width: 25px;
+    height: 25px;
+}
+
+.clear {
+    width: 112px;
+    margin: 2px;
+}
+
+.row {
+    margin: 2px 2px;
+}
+
+#output {
+    width: 110px;
+    height: 25px;
+    border: black solid 1px;
+    margin: 2px;
+}
+
+p {
+    margin: 4px 2px;
+    text-align: right;
+}
